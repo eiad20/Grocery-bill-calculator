@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Entry point for the Grocery Bill Calculator.
- * Coordinates a Store (item catalog) and an Order (a customer's cart)
- * through a simple console-driven shopping loop.
- */
 public class GroceryBillCalculator {
 
     public static void main(String[] args) {
